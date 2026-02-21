@@ -1,6 +1,7 @@
 name: LegacyPunish
 version: 1.0
 main: com.why.legacypunish.LegacyPunish
+api-version: 1.12
 commands:
   shadow:
     description: Cast a player into the shadow realm.
